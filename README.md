@@ -11,7 +11,7 @@ This is a small practice exploring how grid systems function, using a methodolog
 * [Instagram](https://www.instagram.com/cati.cornio/)
 
 ## Have a Peek 👀
-- []()
+- [Preview](https://francosmila.github.io/Grid/)
 
 ## Installation 
 No installation needed. Just open the folder or double-click the .html file and you’re good to go.
